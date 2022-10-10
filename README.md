@@ -1,4 +1,4 @@
-# Cognitive-science-reading
+# Cognitive Science Reading
 I started to read some cognitive science literature from 2022.10.2
 
 It's hard to start, but I will keep moving forwards.
@@ -13,6 +13,8 @@ And I would like to record and share my reading notes here!
 
 ##### Dream
 
+> Lucid dream and nightmare
+
 > Neural correlates of dream
 
 > Visual imagery decoding
@@ -20,6 +22,10 @@ And I would like to record and share my reading notes here!
 ##### TMR
 
 > TMR for memory
+
+##### Trauma rehearsal
+
+>Imagery rehearsal therapy
 
 ##### VR for treatment
 
