@@ -6,6 +6,19 @@ Current Opinion in Behavioral Sciences, 19, 55–60.
 
 https://doi.org/10.1016/j.cobeha.2017.10.003
 
+>“Memory is assisted by anything that makes an impression on a powerful passion, inspiring fear, for example, or wonder, shame or joy,” Francis Bacon, 1620.
+
+```
+Bacon F: The new organon. 1620
+```
+
+abstract
+
+>Recent findings provide increased understanding of how emotional arousal creates lasting memories. The findings are consistent with those of prior studies suggesting that the enhancement assessed in human subjects results from activation of adrenergic and glucocorticoid stress hormones. Additionally, fMRI imaging findings indicate that the
+>enhancement is influenced by activation of the amygdala and its subsequent influences on other brain systems. Findings of recent animal studies using posttraining noradrenergic or
+>optogenetic activation of the amygdala provide extensive evidence that the basolateral amygdala modulates memory consolidation by influencing neuroplasticity in downstream
+>brain systems involved in processing different forms of memory. Activation of these systems helps to insure that emotionally significant experiences are well remembered.
+
 
 
 
@@ -43,10 +56,22 @@ Mobile Intervention to Regulate Anxiety
 
 
 
-
-
 ### Enhancing human emotions with interoceptive technologies. 
 
 Physics of Life Reviews, 31, 310–319. 
 
 https://doi.org/10.1016/j.plrev.2019.10.008
+
+Abstract
+
+> Historically, multiple theories have posited an active, causal role for perceived bodily states in the creation of human emotion. Recent evidence for embodied cognition, i.e. the role of the entire body in cognition, and support for models positing a key role of bodily homeostasis in the creation of consciousness, i.e. active inference, call for the test of causal rather than correlational links between changes in bodily state and changes in affective state. The controlled stimulation of body signals underlying human emotions and the constant feedback loop between actual and expected sensations during interoceptive processing allows for intervention on higher cognitive functioning. Somatosensory interfaces and emotion prosthesis modulating body perception and human emotions through interoceptive illusions offer new experimental and clinical tools for affective neuroscience. Here, we review challenges in the affective and interoceptive neurosciences, in the light of these novel technologies designed to open avenues for applied research and clinical intervention.
+
+Some fundamental questions concerning the mechanisms underlying the relation between emotion and interoception still remain unanswered. 
+
+> What is the exact role of interoception in emotion and cognition? 
+>
+> Can we measure and intervene on the somatic markers leading to conscious cognition? 
+>
+> Can we engineer human emotions through targeted [somatosensory stimulation](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/somatosensory-stimulation)? 
+>
+> Could such interventions be used as interoceptive training tools to improve mental health and [somatic disorders](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/somatic-disorder)? 
