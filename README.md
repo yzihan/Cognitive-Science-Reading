@@ -9,7 +9,11 @@ And I would like to record and share my reading notes here!
 
 ##### Body and mind
 
-> The body keeps the score
+>Extended Cognition
+
+> The Body Keeps the Score
+
+>Sensory Substitution
 
 ##### Dream
 
@@ -18,6 +22,16 @@ And I would like to record and share my reading notes here!
 > Neural correlates of dream
 
 > Visual imagery decoding
+
+**Emotion**
+
+>Emotion Regulation and Enhancement
+
+>Sensations and Bodily Emotions
+
+**Memory**
+
+>Memory Encoding
 
 ##### TMR
 

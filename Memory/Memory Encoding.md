@@ -1,4 +1,4 @@
-## Augmenting Memory Encoding
+## Memory Encoding
 
 ### NeverMind : an interface for human Memory augmentation
 
