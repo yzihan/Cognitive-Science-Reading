@@ -22,4 +22,4 @@ Accordingly, probing the experience of dreams has been used today to test leadin
 143 (Kanwisher and Moscovitch 2000; Schwiedrzik and Freiwald2017) 
 ```
 
-![dream theory](.\image\dream theory.JPG)
+![dream theory](..\image\dream theory.JPG)
