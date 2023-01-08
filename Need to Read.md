@@ -72,3 +72,8 @@ https://go.gale.com/ps/i.do?id=GALE%7CA62839421&sid=googleScholar&v=2.1&it=r&lin
 https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.12244 
 https://philarchive.org/archive/ROSSAP-2
 
+I’ve found this writer (Danielle Carr) very challenging and very interesting. Here are two articles which made me rethink mental health and neuralink:
+
+https://www.nytimes.com/2022/09/20/opinion/us-mental-health-politics.amp.html
+
+https://thebaffler.com/latest/shit-for-brains-carr
