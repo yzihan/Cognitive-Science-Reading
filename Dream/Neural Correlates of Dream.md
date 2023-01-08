@@ -20,6 +20,14 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3398470/
 
 
 
+### The neural correlates of dreaming
+
+nature neuroscience: https://www.nature.com/articles/nn.4545
+
+>Consciousness never fades during waking. However, when awakened from sleep, we sometimes recall dreams and sometimes recall no experiences. Traditionally, dreaming has been identified with rapid eye-movement (REM) sleep, characterized by wake-like, globally 'activated', high-frequency electroencephalographic activity. However, dreaming also occurs in non-REM (NREM) sleep, characterized by prominent low-frequency activity. This challenges our understanding of the neural correlates of conscious experiences in sleep. Using high-density electroencephalography, we contrasted the presence and absence of dreaming in NREM and REM sleep. In both NREM and REM sleep, reports of dream experience were associated with local decreases in low-frequency activity in posterior cortical regions. High-frequency activity in these regions correlated with specific dream contents. Monitoring this posterior 'hot zone' in real time predicted whether an individual reported dreaming or the absence of dream experiences during NREM sleep, suggesting that it may constitute a core correlate of conscious experiences in sleep.
+
+
+
 ### Variations in EEG Coherence as an Index of the Affective Content of Dreams from REM Sleep: Relationships with Face Imagery
 
 doi: https://www.sciencedirect.com/science/article/pii/S0278262699911181
