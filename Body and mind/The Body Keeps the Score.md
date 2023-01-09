@@ -29,6 +29,26 @@ We have learned that trauma is not just an event that took place sometime in the
 Trauma results in a fundamental reorganization of the way mind and brain manage perceptions. It changes not only how we think and what we think about, but also our very capacity to think. We have discovered that helping victims of trauma find the words to describe what has happened to them is profoundly meaningful, but usually it is not enough. The act of telling the story doesn’t necessarily alter the automatic physical and hormonal responses of bodies that remain hypervigilant, prepared to be assaulted or violated at any time. For real change to take place, the body needs to learn that the danger has passed and to live in the reality of the present. Our search to understand trauma has led us to think differently not only about the structure of the mind but also about the processes by which it heals.
 
 
+### Part Five: Paths to Recovery
+
+#### 16.Learning to inhabit your body: YOGA
+
+People who are this scared can’t think straight, and any demand to perform will only make them shut down further.
+
+Annie shuffled into my office and remained standing, barely breathing, looking like a frozen bird. I knew we couldn’t do anything until I could help her quiet down. Moving to within six feet of her and making sure she had unobstructed access to the door, I encouraged her to take slightly deeper breaths. I breathed with her and asked her to follow my example, gently raising my arms from my sides as she inhaled and lowering them as I exhaled, a qigong technique that one of my Chinese students had taught me. She stealthily followed my movements, her eyes still fixed on the floor. We spent about half an hour this way. From time to time I quietly asked her to notice how her feet felt against the floor and how her chest expanded and contracted with each breath.
+
+One of the ways the memory of helplessness is stored is as muscle tension or feelings of disintegration in the affected body areas: head, back, and limbs in accident victims, vagina and rectum in victims of sexual abuse.
+
+When people are chronically angry or scared, constant muscle tension ultimately leads to spasms, back pain, migraine headaches, fibromyalgia, and other forms of chronic pain. They may visit multiple specialists, undergo extensive diagnostic tests, and be prescribed multiple medications, some of which may provide temporary relief but all of which fail to address the underlying issues. Their diagnosis will come to define their reality without ever being identified as a symptom of their attempt to cope with trauma.
+
+Our involvement with yoga started in 1998 when Jim Hopper and I first heard about a new biological marker, heart rate variability (HRV), that had recently been discovered to be a good measure of how well the autonomic nervous system is working.
+
+Roughly speaking, the sympathetic nervous system (SNS) uses chemicals like adrenaline to fuel the body and brain to take action, while the parasympathetic nervous system (PNS) uses acetylcholine to help regulate basic body functions like digestion, wound healing, and sleep and dream cycles.
+
+Since then, however, scientific methods have confirmed that changing the way one breathes can improve problems with anger, depression, and anxiety and that yoga can positively affect such wide-ranging medical problems as high blood pressure, elevated stress hormone secretion, asthma, and low-back pain.
+
+In our clinic we have workstations where patients can train their HRV, and I urge all my patients who, for one reason or another, cannot practice yoga, martial arts, or qigong to train themselves at home.
+
 
 
 
