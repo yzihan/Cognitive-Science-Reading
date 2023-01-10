@@ -16,6 +16,8 @@ The challenge is: How can people gain control over the residues of past trauma a
 
 What Kardiner called “traumatic neuroses,” today we call posttraumatic stress disorder—PTSD. Kardiner noted that sufferers from traumatic neuroses develop a chronic vigilance for and sensitivity to threat. His summation especially caught my eye: “The nucleus of the neurosis is a physioneurosis.”2 In other words, posttraumatic stress isn’t “all in one’s head,” as some people supposed, but has a physiological basis. Kardiner understood even then that the symptoms have their origin in the entire body’s response to the original trauma.
 
+“The greatest sources of our suffering are the lies we tell ourselves.” Working at the VA I soon discovered how excruciating it can be to face reality. This was true both for my patients and for myself.
+
 One of the hardest things for traumatized people is to confront their shame about the way they behaved during a traumatic episode, whether it is objectively warranted (as in the commission of atrocities) or not (as in the case of a child who tries to placate her abuser).
 
 We learned from these Rorschach tests that traumatized people have a tendency to superimpose their trauma on everything around them and have trouble deciphering whatever is going on around them. There appeared to be little in between. We also learned that trauma affects the imagination.
@@ -28,6 +30,19 @@ We have learned that trauma is not just an event that took place sometime in the
 
 Trauma results in a fundamental reorganization of the way mind and brain manage perceptions. It changes not only how we think and what we think about, but also our very capacity to think. We have discovered that helping victims of trauma find the words to describe what has happened to them is profoundly meaningful, but usually it is not enough. The act of telling the story doesn’t necessarily alter the automatic physical and hormonal responses of bodies that remain hypervigilant, prepared to be assaulted or violated at any time. For real change to take place, the body needs to learn that the danger has passed and to live in the reality of the present. Our search to understand trauma has led us to think differently not only about the structure of the mind but also about the processes by which it heals.
 
+A test mentioned in this chapter:
+Rorschach Inkblot Test, which can indicate a person's perception of interpersonal relationships, intimate relationships, sexual orientation, etc.
+The Rorschach test is a projective psychological test in which subjects' perceptions of inkblots are recorded and then analyzed using psychological interpretation, complex algorithms, or both. Some psychologists use this test to examine a person's personality characteristics and emotional functioning. It has been employed to detect underlying thought disorder, especially in cases where patients are reluctant to describe their thinking processes openly. (from wikipedia)
+Questions: https://www.rorschach.org/
+Analysis: https://www.dandebat.dk/eng-personkort.htm
+
+
+
+#### 1.2 Revolutions in understanding mind and brain
+
+Our patients had hallucinations—the doctors routinely asked about them and noted them as signs of how disturbed the patients were. But if the stories I’d heard in the wee hours were true, could it be that these “hallucinations” were in fact the fragmented memories of real experiences? Were hallucinations just the concoctions of sick brains? Could people make up physical sensations they had never experienced? Was there a clear line between creativity and pathological imagination? Between memory and imagination? These questions remain unanswered to this day, but research has shown that people who’ve been abused as children often feel sensations (such as abdominal pain) that have no obvious physical cause; they hear voices warning of danger or accusing them of heinous crimes.
+
+Our great teacher, Elvin Semrad, actively discouraged us from reading psychiatry textbooks during our first year. (This intellectual starvation diet may account for the fact that most of us later became voracious readers and prolific writers.) Semrad did not want our perceptions of reality to become obscured by the pseudocertainties of psychiatric diagnoses. I remember asking him once: “What would you call this patient—schizophrenic or schizoaffective?” He paused and stroked his chin, apparently in deep thought. “I think I’d call him Michael McIntyre,” he replied. (Xueying: something worth sharing but not so closely connected with our topic)
 
 ### Part Five: Paths to Recovery
 

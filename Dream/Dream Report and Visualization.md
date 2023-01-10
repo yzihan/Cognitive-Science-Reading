@@ -26,7 +26,7 @@ How do we search for the meaning of our dreams on Google? We have explored the r
 
 
 
-### EEGBased Artistic Visualization of Dreams
+### EEG Based Artistic Visualization of Dreams
 
 Chinese CHI'21
 
@@ -97,11 +97,11 @@ https://doi.org/10.1098/rsos.192080
 ```
 [10]Jungian dream interpretation:a handbook of theory and practice.
 
-[11]Are the effects of dream interpretationon sessionquality, insight, andemotions due to the dream itself, toprojection, ortothe interpretation process? (doi:10.1037/h0094385)
+[11]Are the effects of dream interpretation on session quality, insight, and emotions due to the dream itself, to projection, or to the interpretation process? (doi:10.1037/h0094385)
 
 [12]Dream work in therapy: facilitating exploration, insight, andaction
 
-[13]Use of dreams intherapy: a survey of clinicians in private practice.(doi:10.2466/ pr0.1995.76.3c.1288
+[13]Use of dreams in therapy: a survey of clinicians in private practice.(doi:10.2466/ pr0.1995.76.3c.1288
 
 [14]Dream interpretation sessions for college students in Taiwan: who benefits and what volunteer clients view as most and least helpful.Dreaming 16,246–257.(doi:10.1037/1053-0797.16.4.246)
 ```
