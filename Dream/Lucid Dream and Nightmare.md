@@ -38,3 +38,16 @@ abstract
 >
 >**Conclusions:** LDT seems effective in reducing nightmare frequency, although the primary therapeutic component (i.e. exposure, mastery, or lucidity) remains unclear.
 
+### Are Lucid Dreams Good for Us? Are We Asking the Right Question? A Call for Caution in Lucid Dream Research
+
+doi: https://www.frontiersin.org/articles/10.3389/fnins.2019.01423/full
+
+A review that includes many studies about lucid dream.
+
+Main points
+1. Even when there is control in LD, it is unclear whether this is necessarily beneficial for mental health.
+2. LD have been advocated as a therapeutic approach (lucid dream therapy, LDT; Gavie and Revonsuo, 2010), training individuals in induction techniques. This is usually aimed at chronic nightmare sufferers so that they can gain control over their nightmares by altering the ending of the dream scenario.
+3. Might frequent induction be deleterious to sleep hygiene and sleep–wake psychological boundaries.
+4. To be continued...
+
+

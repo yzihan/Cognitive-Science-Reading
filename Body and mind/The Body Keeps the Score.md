@@ -46,6 +46,22 @@ Our great teacher, Elvin Semrad, actively discouraged us from reading psychiatry
 
 ### Part Five: Paths to Recovery
 
+#### 13.Healing from trauma: owning your self
+
+The emotions and physical sensations that were imprinted during the trauma are experienced not as memories but as disruptive physical reactions in the present.
+
+The neuroscientist Joseph LeDoux and his colleagues have shown that the only way we can consciously access the emotional brain is through selfawareness, i.e. by activating the medial prefrontal cortex, the part of the brain that notices what is going on inside us and thus allows us to feel what we’re feeling. (The technical term for this is “interoception”—Latin for
+“looking inside.”) Most of our conscious brain is dedicated to focusing on the outside world: getting along with others and making plans for the future. However, that does not help us manage ourselves. Neuroscience research shows that the only way we can change the way we feel is by becoming aware of our inner experience and learning to befriend what is going inside ourselves.
+
+Different patients have told me how much choral singing, aikido, tango dancing, and kickboxing have helped them, and I am delighted to pass their recommendations on to other people I treat.
+
+When we play together, we feel physically attuned and experience a sense of connection and joy. Improvisation exercises (such as those found at http://learnimprov.com/) also are a marvelous way to help people connect in joy and exploration. The moment you see a group of grim-faced people break out in a giggle, you know that the spell of misery has broken.
+
+Telling the story is important; without stories, memory becomes frozen; and without memory you cannot imagine how things can be different. But as we saw in part 4, telling a story about the event does not guarantee that the traumatic memories will be laid to rest.
+
+The program started in Oakland, California, in 1971 after a woman with a fifth-degree black belt in karate was raped. Wondering how this could have happened to someone who supposedly could kill with her bare hands, her friends concluded that she had become de-skilled by fear. In the terms of this book, her executive functions—her frontal lobes—went off-line, and she froze. The model
+mugging program teaches women to recondition the freeze response through many repetitions of being placed in the “zero hour” (a military term for the precise moment of an attack) and learning to transform fear into positive fighting energy.
+
 #### 16.Learning to inhabit your body: YOGA
 
 People who are this scared can’t think straight, and any demand to perform will only make them shut down further.
