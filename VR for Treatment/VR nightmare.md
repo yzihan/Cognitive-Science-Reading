@@ -25,9 +25,9 @@ theory:
 >exposure to threatening or scary images (as in combat-centric video game play or more benignly in IRT) may allow individuals to develop defensive control over violent/frightening imagery that can then act as a form of nightmare protection (Flockhart & Gackenbach, 2017; Gackenbach et al., 2011, 2013).
 
 ```
-Flockhart,  C.,  &  Gackenbach,  J.  I.  (2017).  The  nightmare  protection  hypothesis:  An  experimentalinquiry.International Journal of Dream Research, 10,1–9. Retrieved fromhttps://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/view/27213
+Flockhart,  C.,  &  Gackenbach,  J.  I.  (2017).  The  nightmare  protection  hypothesis:  An  experimental inquiry. International Journal of Dream Research, 10,1–9. Retrieved from https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/view/27213
 
-Gackenbach, J. I., Darlington, M., Ferguson, M. L., & Boyes, A. (2013). Video game play as nightmareprotection: A replication and extension.Dreaming, 23,97–111.http://dx.doi.org/10.1037/a0032455
+Gackenbach, J. I., Darlington, M., Ferguson, M. L., & Boyes, A. (2013). Video game play as nightmare protection: A replication and extension.Dreaming, 23,97–111.http://dx.doi.org/10.1037/a0032455
 ```
 
 approach:
