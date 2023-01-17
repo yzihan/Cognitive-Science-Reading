@@ -77,3 +77,55 @@ I’ve found this writer (Danielle Carr) very challenging and very interesting. 
 https://www.nytimes.com/2022/09/20/opinion/us-mental-health-politics.amp.html
 
 https://thebaffler.com/latest/shit-for-brains-carr
+
+potential areas worth exploring
+Positive  Technology, Positive  Computing
+Andrea Gaggioli, Giuseppe Riva, Dorian Peters, and Rafael A. Calvo. 2017. Positive Technology, Computing, and Design: Shaping a Future in Which Technology Promotes Psychological Well-Being. In Emotions and Affect in Human Factors and Human-Computer Interaction. Elsevier, 477–502. https://doi.org/10.1016/B978-0-12-801851-4.00018-5
+
+
+## Lucid dream
+
+Kitson A, Muntean R, DiPaola S and Riecke B. Lucid Loop: Exploring the
+Parallels between Immersive Experiences and Lucid Dreaming. Designing
+Interactive Systems Conference. (865-880).
+https://doi.org/10.1145/3532106.3533538
+
+Kitson A, DiPaola S and Riecke B. Lucid Loop. Extended Abstracts of
+the 2019 CHI Conference on Human Factors in Computing Systems. (1-6).
+https://doi.org/10.1145/3290607.3312952
+
+Liu P, Stepanova E, Kitson A, Schiphorst T and Riecke B. Virtual
+Transcendent Dream: Empowering People through Embodied Flying in
+Virtual Reality. Proceedings of the 2022 CHI Conference on Human
+Factors in Computing Systems. (1-18).
+https://doi.org/10.1145/3491102.3517677
+
+Kitson A, Stepanova E, Aguilar I, Wainwright N and Riecke B. Designing
+Mind(set) and Setting for Profound Emotional Experiences in Virtual
+Reality. Proceedings of the 2020 ACM Designing Interactive Systems
+Conference. (655-668).
+https://doi.org/10.1145/3357236.3395560
+
+## VR
+
+**PTSD  treatment**
+1. Barbara O. Rothbaum, Albert “Skip” Rizzo, and JoAnn Difede. 2010. Virtual reality exposure therapy for combat-related posttraumatic stress disorder. Annals of the New York Academy of Sciences 1208, 1: 126–132. https://doi.org/10.1111/j.1749-6632.2010.05691.x
+
+
+**pain management**
+1. L. J. Gerry. 2017. Paint with Me: Stimulating Creativity and Empathy While Painting with a Painter in Virtual Reality. IEEE Transactions on Visualization and Computer Graphics 23, 4: 1418–1426. https://doi.org/10.1109/TVCG.2017.2657239
+2. Xin Tong, Diane Gromala, Bernhard E. Riecke, Chris D. Shaw, Thomas Loughin, and Mehdi Karamnejad. 2014. Usability Comparisons of Head-Mounted vs. Immersive Desktop Displays for Pain Management in Virtual Reality. 
+3. Mark D. Wiederhold and Brenda K. Wiederhold. 2007. Virtual Reality and Interactive Simulation for Pain Distraction. Pain Medicine 8: S182–S188. https://doi.org/10.1111/j.1526-4637.2007.00381.x 
+
+
+**Others**
+1. Melanie Schädlich and Daniel Erlacher. 2012. Applications of lucid dreams: An online study. International Journal of Dream Research 5, 2: 134–138. https://doi.org/10.11588/ijodr.2012.2.9505
+2. Isaac Y. Taitz. 2014. Clinical Applications of Lucid Dreaming Therapy. Lucid Dreaming: New Perspectives on Consciousness in Sleep [2 volumes]: New Perspectives on Consciousness in Sleep: 167. 
+
+**Possible tools and analysis methods**
+
+1. Audio recordings of the interview and interview’s notes were imported into <b>NVivo  11 for Mac</b>,  a qualitative data analysis software, and transcribed to text.
+2. Clark Moustakas. 1994. Phenomenological research methods. Sage.
+3. Amedeo Giorgi. 1985. Phenomenology and psychological research. Duquesne.
+
+
