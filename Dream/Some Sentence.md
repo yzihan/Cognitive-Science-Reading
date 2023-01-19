@@ -85,4 +85,6 @@
 > “The purpose of poetry is to awaken sleepers by something other than a shock.”  —DeniseLevertov,1959 
 
 
+#### Imagery Rehearsal Therapy: Principles and Practice
 
+>To some, this process can provoke anxiety or fear because changing an identity might feel like they are killing off a part of themselves. Yet changes occur all the time, and through imagery practice, consciously or otherwise, humans naturally learn to appreciate these changes in identity and develop new behavioral patterns

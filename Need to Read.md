@@ -129,3 +129,12 @@ https://doi.org/10.1145/3357236.3395560
 3. Amedeo Giorgi. 1985. Phenomenology and psychological research. Duquesne.
 
 
+## Imagery rehearsal therapy
+
+1. Krakow B, Hollifield M, Johnston L, et al. Imagery rehearsal therapy for chronic nightmares in sexual assault survivors with posttraumatic stress disorder: a randomized controlled trial. JAMA 2001;286(5): 537–45.
+2. Krakow B, Germain A, Tandberg D, et al. Sleep breathing and sleep movement disorders masquerading as insomnia in sexual-assault survivors. Compr Psychiatry 2000;41(1):49–56.
+3. Krakow B, Germain A, Warner TD, et al. The relationship of sleep quality and posttraumatic stress to potential sleep disorders in sexual assault survivors with nightmares, insomnia, and PTSD. J Trauma Stress 2001;14(4):647–65.
+4. Krakow B, Melendrez D, Warner TD, et al. To breathe, perchance to sleep: sleep-disordered breathing and chronic insomnia among trauma survivors. Sleep Breath 2002;6(4):189–202.
+5.  Krakow B, Melendrez D, Pedersen B, et al. Complex insomnia: insomnia and sleep-disordered breathing in a consecutive series of crime victims with nightmares and PTSD. Biol Psychiatry 2001; 49(11):948–53
+6. Krakow B, Lowry C, Germain A, et al. A retrospective study on improvements in nightmares and post-traumatic stress disorder following treatment for comorbid sleep-disordered breathing. J Psychosom Res 2000;49(5):291–8
+7. Barrett D, editor. Trauma and dreams. Cambridge: Harvard University Press; 1996.

@@ -29,13 +29,7 @@ doi: https://doi.org/10.1145/3173574.3173917
 > 4. reliable brain  computer interfaces  combined  with VR, to mimic the randomness brought by thought
 > 5. VR designers might also think about what ceremonies or preparations  the  users  are  undergoing  in  order  to  prepare for  them  for the  virtual  world
 
-
-
-
-
-
-
-
+&nbsp;
 
 ### Real-time dialogue between experimenters and dreamers during REM sleep
 
@@ -47,13 +41,41 @@ doi: https://doi.org/10.1016/j.cub.2021.01.026
 >IN (lower left) refers to methods whereby information was transmitted from experimenter to dreamer. OUT (lower right) refers to methods whereby information was transmitted from dreamer to experimenter. Examples of three dreams (color-coded for each input method) are illustrated below relevant excerpts from corresponding dream reports obtained following awakening. 
 > Data in Figure 2 were obtained from a 19-year-old American participant who reported experiencing only two lucid dreams previously. He received sound cues during a 90-min daytime nap, near the beginning of a period of REM sleep. He indicated that he was in a lucid dream with a series of three left-right eye movements (termed LRLRLR). Then we presented a spoken math problem: 8 minus 6. Within 3 s, he responded with two left-right eye movements (LRLR) to signal the correct answer 2. The math problem was then repeated, and he again produced the correct answer.
 
+&nbsp;
+
+### Lucid Loop: A Virtual Deep Learning Biofeedback System for Lucid Dreaming Practice
+
+doi: https://doi.org/10.1145/3290607.3312952
+
+They have designed a VR scenario to mimic lucid dream feeling, and summarize similarities, differences, and mixed features between dream and Lucid Loop.
+
+The two main approaches of lucid dreaming training we focus on are practicing focused awareness and visualizing becoming lucid.
+
+![Lucid loop system schematic](./image/LucidLoop.png)
+
+&nbsp;
 
 ### Lucid dream forums
-https://www.thelucidguide.com/forum
-https://www.dreamviews.com/forum.php
-https://community.ld4all.com/
-https://www.reddit.com/r/LucidDreaming/
+1. https://www.thelucidguide.com/forum
+2. https://www.dreamviews.com/forum.php
+3. https://community.ld4all.com/
+4. https://www.reddit.com/r/LucidDreaming/
 
+&nbsp;
 
-### relevant topic
-Dream Yoga
+### Lucid dream techniques and tools
+1. Dream Induced Lucid Dreams (DILD): practice mindfulness meditation and look for dream signs, things that seem bizarre or out-of-the-ordinary so you can ask yourself “am I dreaming?”
+2. Mnemonic Induction of Lucid Dreams (MILD): practice dream recall, reality checks, affirmations, and visualizations
+3. Wake-Initiated Lucid Dreams (WILD): while completely relaxed, focus on keeping conscious awareness as your body goes to sleep and visualize what you want to dream
+4. Wake Back to Bed (WBTB): wake up after six hours of sleep for 20–60 minutes and then go back to sleep by visualizing and setting an intention to lucid dream
+5. Brain Entrainment: sounds of certain frequencies, e.g., binaural beats and isochronic tones, guide your brain into a state of deep relaxation and focused awareness
+6. Supplements: acetylcholine esterase inhibitors, like galantamine, can increase lucid dream occurrence, dream recall, as well as sensory vividness and complexity
+7. Technology: sleep masks that give light flashes or audio to prompt lucidity while dreaming and headbands that detect when you’re in REM sleep to trigger binaural beats or other audio cues
+
+&nbsp;
+
+### Relevant info
+1. Tibetan Dream Yoga
+2. Lucidity Institute
+3. Dr. Steve DiPaola’s lab
+4. Dream Journal Ultimate is the world’s largest dream database
