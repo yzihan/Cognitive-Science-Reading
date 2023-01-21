@@ -46,7 +46,7 @@ Our great teacher, Elvin Semrad, actively discouraged us from reading psychiatry
 
 ### Part Five: Paths to Recovery
 
-#### 13.Healing from trauma: owning your self
+#### 13. Healing from trauma: owning your self
 
 The emotions and physical sensations that were imprinted during the trauma are experienced not as memories but as disruptive physical reactions in the present.
 
@@ -62,7 +62,36 @@ Telling the story is important; without stories, memory becomes frozen; and with
 The program started in Oakland, California, in 1971 after a woman with a fifth-degree black belt in karate was raped. Wondering how this could have happened to someone who supposedly could kill with her bare hands, her friends concluded that she had become de-skilled by fear. In the terms of this book, her executive functions—her frontal lobes—went off-line, and she froze. The model
 mugging program teaches women to recondition the freeze response through many repetitions of being placed in the “zero hour” (a military term for the precise moment of an attack) and learning to transform fear into positive fighting energy.
 
-#### 16.Learning to inhabit your body: YOGA
+Being traumatized is not just an issue of being stuck in the past; it is just as much a problem of not being fully alive in the present.
+
+A trauma can be successfully processed only if all those brain structures are kept online. In Stan’s case, eye movement desensitization and reprocessing (EMDR) allowed him to access his memories of the accident without being overwhelmed by them. When the brain areas whose absence is responsible for flashbacks can be kept online while remembering what has happened, people can integrate their traumatic memories as belonging to the past.
+
+#### 14. Language miracle and tyranny
+
+Blaming is a universal human trait that helps people feel good while feeling bad, or, as my old teacher Elvin Semrad used to say:"Hate makes the world go round." But stories also obscure a more important issue, namely, that trauma radically changes people: that in fact they no longer are "themselves."
+
+As I once heard Harvard psychologist Jerome Kagan say: “The task of describing most private experiences can be likened to reaching down to a deep well to pick up small fragile crystal figures while you are wearing thick leather mittens.”
+
+It is excruciatingly difficult to put that fecling of no longer being yourself into words. Language evolved primarily to share "things out there," not to communicate our inner feelings, our interiority.
+
+Of the two hundred participants, sixty-five wrote about a
+childhood trauma. Although the death of a family member was the most frequent topic, 22 percent of the women and 10 percent of the men reported sexual trauma prior to the age of seventeen.
+
+Those who reported a traumatic sexual experience in childhood had been hospitalized an average of 1.7 days in the previous year—almost twice the rate of the others.
+
+Writing about their deepest thoughts and feelings about traumas had improved their mood and resulted in a more optimistic attitude and better physical health.
+
+In a subsequent study Pennebaker asked half of a group of seventy-two students to talk into a tape recorder about the most traumatic experience of their lives; the other half discussed their plans for the rest of the day. As they spoke, researchers monitored their physiological reactions: blood pleasure, heart rate, muscle tension, and hand temperature.16 This study had similar results: Those who allowed themselves to feel their emotions showed significant physiological changes, both immediate and long term. During their confessions blood pressure, heart rate, and other autonomic functions increased, but afterward their arousal fell to levels below where they had been at the start of the study. The drop in blood pressure could still be measured six weeks after the experiment ended.
+
+It is now widely accepted that stressful experiences—whether divorce or final exams or loneliness—have a negative effect on immune function, but this was a highly controversial notion at the time of Pennebaker’s study.
+
+The capacity of art, music, and dance to circumvent the speechlessness that comes with terror may be one reason they are used as trauma treatments in cultures around the world. One of the few systematic studies to compare nonverbal artistic expression with writing was done by James Pennebaker and Anne Krantz, a San Francisco dance and movement therapist.19 One-third of a group of sixty-four students was asked to disclose a personal traumatic experience through expressive body movements for at least ten minutes a day for three consecutive days and then to write about it for another ten minutes. A second group danced but did not write about their trauma, and a third group engaged in a routine exercise program. Over the three following months members of all groups reported that they felt happier and healthier. However, only the expressive movement group that also wrote showed objective evidence: better physical health and an improved grade-point average. (The study did not evaluate specific PTSD symptoms.) Pennebaker and Krantz concluded: “The mere expression of the trauma is not sufficient. Health does appear to require translating experiences into language.”
+
+He reiterated the point I’ve made above—that the object of writing is to write to yourself, to let your self know what you have been trying to avoid.
+
+Finding a responsive community in which to tell your truth makes recovery possible.
+
+#### 16. Learning to inhabit your body: YOGA
 
 People who are this scared can’t think straight, and any demand to perform will only make them shut down further.
 
