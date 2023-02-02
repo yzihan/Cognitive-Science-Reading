@@ -132,11 +132,10 @@ https://doi.org/10.1098/rsos.192080
 
 > The original dream report data are available at [http://dreambank.net](http://dreambank.net/). The scores assigned by our tool to the dream reports we analysed are available at https://doi.org/10.5061/dryad.qbzkh18fr [[80](https://royalsocietypublishing.org/doi/10.1098/rsos.192080#RSOS192080C80)]. The data and code to extract the Hall–Van de Castle’s dream coding scale is also available at http://social-dynamics.net/dreams.
 
+### DancingWords: exploring animated word clouds to tell stories
 
+doi: https://doi.org/10.1007/s12650-020-00689-0
 
+**Abstract**
 
-
-
-
- 
-
+>By encoding semantic relations into relative positions, word clouds have shown the capability to deliver richer messages than purely visualizing word frequencies. Existing studies mainly focus on layout algorithms that cluster related words, preserve temporal coherence, and optimize spatial shapes. However, they cannot fully convey multiple relations among words and their evolvement through relative positions and static representations. In this paper, we explore animated word clouds that take advantage of storytelling strategies to present interactions between words and show the dynamic process of content changes, thus communicating the underlying stories. We initially create several exemplars of animated word clouds with designers through a structured iterative design process. These exemplars lead to a preliminary design space that distills essential narrative elements with design choices. Based on the design space, we develop a prototype tool, DancingWords, which provides story-oriented interactions and automatic layouts for users to generate animated word clouds. We evaluate the expressiveness and usefulness of our system through several example animated stories and a usability study with general users. The results show that DancingWords allows users to produce appealing storytelling videos easily and quickly for communication.

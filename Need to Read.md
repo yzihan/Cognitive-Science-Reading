@@ -138,3 +138,6 @@ https://doi.org/10.1145/3357236.3395560
 5.  Krakow B, Melendrez D, Pedersen B, et al. Complex insomnia: insomnia and sleep-disordered breathing in a consecutive series of crime victims with nightmares and PTSD. Biol Psychiatry 2001; 49(11):948–53
 6. Krakow B, Lowry C, Germain A, et al. A retrospective study on improvements in nightmares and post-traumatic stress disorder following treatment for comorbid sleep-disordered breathing. J Psychosom Res 2000;49(5):291–8
 7. Barrett D, editor. Trauma and dreams. Cambridge: Harvard University Press; 1996.
+
+Joanna Pilarczyk, Michał Kuniecki, Kinga Wołoszyn, and Radosław Sterna. 2020. Blue blood, red blood. How does the color of an emotional scene affect visual attention and pupil size? Vision Research, Vol. 171 (2020), 36--45
+
