@@ -62,12 +62,6 @@ https://www.nature.com/articles/s41746-022-00589-7
 
 
 
-### Inducing Positive Perspectives with Text Reframing
-
-https://aclanthology.org/2022.acl-long.257/CoAuthor
-
-
-
 ### Designing a Human-AI Collaborative Writing Dataset for Exploring Language Model Capabilities
 
 https://dl.acm.org/doi/abs/10.1145/3491102.3502030
