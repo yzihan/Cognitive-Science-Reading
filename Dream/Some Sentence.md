@@ -88,3 +88,8 @@
 #### Imagery Rehearsal Therapy: Principles and Practice
 
 >To some, this process can provoke anxiety or fear because changing an identity might feel like they are killing off a part of themselves. Yet changes occur all the time, and through imagery practice, consciously or otherwise, humans naturally learn to appreciate these changes in identity and develop new behavioral patterns
+
+#### Trauma and Dreams
+
+> In his words, those in the exact sciences view the activity of dreaming is analogous to "the ten fingers of a man who knows nothing of music wandering over the keys of a piano."
+> Freud wa also clear that dreams deal more often with experiences that are accompanied by distressing emotions, with displeasure rather than with pleasure.
