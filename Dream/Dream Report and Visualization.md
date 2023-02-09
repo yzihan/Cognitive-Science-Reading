@@ -139,3 +139,16 @@ doi: https://doi.org/10.1007/s12650-020-00689-0
 **Abstract**
 
 >By encoding semantic relations into relative positions, word clouds have shown the capability to deliver richer messages than purely visualizing word frequencies. Existing studies mainly focus on layout algorithms that cluster related words, preserve temporal coherence, and optimize spatial shapes. However, they cannot fully convey multiple relations among words and their evolvement through relative positions and static representations. In this paper, we explore animated word clouds that take advantage of storytelling strategies to present interactions between words and show the dynamic process of content changes, thus communicating the underlying stories. We initially create several exemplars of animated word clouds with designers through a structured iterative design process. These exemplars lead to a preliminary design space that distills essential narrative elements with design choices. Based on the design space, we develop a prototype tool, DancingWords, which provides story-oriented interactions and automatic layouts for users to generate animated word clouds. We evaluate the expressiveness and usefulness of our system through several example animated stories and a usability study with general users. The results show that DancingWords allows users to produce appealing storytelling videos easily and quickly for communication.
+
+
+### My Virtual Dream’: Collective Neurofeedback in an Immersive Art Environment
+
+doi: https://doi.org/10.1371/journal.pone.0130129
+
+**Abstract**
+
+> While human brains are specialized for complex and variable real world tasks, most neuroscience studies reduce environmental complexity, which limits the range of behaviours that can be explored. Motivated to overcome this limitation, we conducted a large-scale experiment with electroencephalography (EEG) based brain-computer interface (BCI) technology as part of an immersive multi-media science-art installation. Data from 523 participants were collected in a single night. The exploratory experiment was designed as a collective computer game where players manipulated mental states of relaxation and concentration with neurofeedback targeting modulation of relative spectral power in alpha and beta frequency ranges. Besides validating robust time-of-night effects, gender differences and distinct spectral power patterns for the two mental states, our results also show differences in neurofeedback learning outcome. The unusually large sample size allowed us to detect unprecedented speed of learning changes in the power spectrum (~ 1 min). Moreover, we found that participants' baseline brain activity predicted subsequent neurofeedback beta training, indicating state-dependent learning. Besides revealing these training effects, which are relevant for BCI applications, our results validate a novel platform engaging art and science and fostering the understanding of brains under natural conditions.
+
+**Insights**
+
+> artistic visualization with EEG to share dreams

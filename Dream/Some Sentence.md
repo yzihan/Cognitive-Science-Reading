@@ -88,3 +88,10 @@
 #### Imagery Rehearsal Therapy: Principles and Practice
 
 >To some, this process can provoke anxiety or fear because changing an identity might feel like they are killing off a part of themselves. Yet changes occur all the time, and through imagery practice, consciously or otherwise, humans naturally learn to appreciate these changes in identity and develop new behavioral patterns
+
+#### ON DREAM SHARING AND ITS PURPOSE
+
+> A fragment from Heraclitus distills the problem: “The universe for those who are awake is single and common, while in sleep each person turns aside into a private universe.”
+> Dreams mean disconnection and disengagement from the framework of this our shared world, and immersion in them is so strange, so sorrowful, so disorienting, sometimes so very shameful, that we can barely coax them into the light even should we want to.
+> Dream life and waking life do not exist in a hermeneutic relation to one another—instead, they are interpenetrable and complementary planes of existence. Acting in one has an effect in the other—which in turn has an effect again in the first, and on and on in a continuous cycle.
+
