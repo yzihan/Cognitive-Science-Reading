@@ -93,3 +93,9 @@
 
 > In his words, those in the exact sciences view the activity of dreaming is analogous to "the ten fingers of a man who knows nothing of music wandering over the keys of a piano."
 > Freud wa also clear that dreams deal more often with experiences that are accompanied by distressing emotions, with displeasure rather than with pleasure.
+
+#### ON DREAM SHARING AND ITS PURPOSE
+
+> A fragment from Heraclitus distills the problem: “The universe for those who are awake is single and common, while in sleep each person turns aside into a private universe.”
+> Dreams mean disconnection and disengagement from the framework of this our shared world, and immersion in them is so strange, so sorrowful, so disorienting, sometimes so very shameful, that we can barely coax them into the light even should we want to.
+> Dream life and waking life do not exist in a hermeneutic relation to one another—instead, they are interpenetrable and complementary planes of existence. Acting in one has an effect in the other—which in turn has an effect again in the first, and on and on in a continuous cycle.
