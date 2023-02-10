@@ -44,3 +44,37 @@ link: https://www.cabinetmagazine.org/issues/67/spellberg1.php
         1. Pandya explains that before going to bed, the Ongees narrated to one another their dreams from the night before, and their experiences of the day that had just ended, especially their time spent in the forest hunting and gathering food. But in doing so, they would negotiate the content of their dreams, modifying it so that everyone’s dream accounts might be gradually aligned with one another. One person might report having dreamt of fishing on the south beach of the island, another picking nuts on the west beach, then the first might suggest a compromise: We both went fishing in our dreams, but on the west beach.
         2. The indigenous explanation for this extraordinary process, Pandya reports, is as follows. During dreaming, the inner self leaves the outer self (the body) and travels the island in order to recuperate the bits of being that a person has lost during the day. These bits of being are most commonly manifest as stray smells, marooned on bushes and trees by the body during its daytime passage around the island. As the inner self collects these smells in the dream, it retraces the path of the body, collecting and consolidating important memories and making observations. The harvest of this inner being is then woven, over the sleeping “body external,” into a spider web that holds in place all the smells, dreams, and memories of previous nights and days, and so allows them to be used in the coming day. When the entire community talks through their dreams before sleeping, then the individual webs are woven together into a single web over the whole community. Pandya quotes a respected elder, Teemai: “To talk about the dreams and sing about the past makes a good spider web that connects all the open space to catch its food—it is a weave with all the lines woven well to let the spider know what is caught where. We, in remembering and dreaming, make a web for all individuals to gain.”
         
+### Toward dream cartogaphy: mapping dream space and content
+
+doi: 10.3138/cart.50.4.3137
+
+**Abstract**
+> The objective of dream cartography is to map dream content, that is, to develop new visualization methods and adapt existing ones as graphical means for an explorative dream analysis. We aim at modelling (i.e., disentangling), documenting, reuniting, and graphically depicting the dream space and other relevant psychological aspects of dreams in a meaningful but abstracted way. In this article we describe the proposed workflow for mapping dreams, focusing on data acquisition, and illustrate it with some proof-of-concept visualization examples. The dream space is fundamentally different from the real space, especially because it is not possible to consciously visit the place of the dream again. One way to address this setting issue is through data acquisition, and here we propose means for getting a more accurate description of the dream space and of other important dream elements.
+
+**Insights**
+1. to integrate all these visualization elements into an interactive Web platform, so that each dream presents itself to the map viewer in its actual multidimensionality
+2. The  first  scientific  relevance  is  in cartography, since this  means exploring new,  undiscovered territories,  creating very specific, individual maps and proposing novel symbolization. The insights that we gain from  the  visualization  of  the spatial  dimension  of  dreams  may  be  used  to visually represent  other  data  or  descriptions  of  places,  as  the  surrounding  world  is interpreted by human cognition. The latter might  be used  in location-based services in order to improve for example verbal instructions for navigating to unknown places. [storytelling, brilliant]
+3. Accordingly  we  can  provide  a  user-friendly,  graphical  tool  for  exploring  the dream storyline and landscape, allowing end-user to adapt the visualization in order to reflect the importance of the occurring elements in the dream
+4. Dream Cartography c  serve  as  an  important  analysis  tool  for  psychologists  and  psychiatrists  who  may explore individual dreams and dream series of their patients for discovering patterns in the  dreams, such  as reoccurring  places, emotions,  type of  characters or  of social interactions.
+5. 
+
+## Need to read
+
+### The landscape of Our Dream - Foundations of Dream Geography
+
+### Dream Cartography. Mapping Dream Space and Content for an Exploratory Analysis of Dreams
+
+doi: https://doi.org/10.3929/ethz-b-000381774
+
+**Abstract**
+
+Furthermore, a new type of Volunteered Geographical Information (VGI) is proposed: the fictional VGI (F-VGI). The social aspect of dreams is exploited, arguing that not only the dreamer, but also a third party may contribute to the fictional geography.
+
+The dream setting is modelled, based on the systematic study of dream reports, on literature in dream psychology, geography and narratology, and on two empirical surveys. The first one is an online survey, with a convenience sample, answered by more than 300 persons and deals with general aspects of dream settings, such as what are elements, by which dreamers recognize a dream place. The second one is a paper-and-pencil survey, applied to an academic group com-posed of 30 cartography and geoinformation specialists. It contributes to the definition of the components of a setting. For example, one component is the dreamer’s familiarity with that place. This familiarity is used for building a straightforward model, which is the base for the place cookie diagram, visualized in form of concentric circles. In total, 26 dimensions are identified, which extensively characterize a setting. These dimensions are grouped into eight factors, which are: relation to geospace vs. role of space, society vs. morphology, individual vs. general exposure, and attention vs. environment. The obtained model is used to create a visual profile of the dream setting, named setting spider, in form of a radar chart with eight “legs”. Moreover, a similar model is built for a dream scene, resulting into the so-called event spider. The proposed profiles enable comparisons of different dream settings, or of different dreams, respectively. They can be used as uni- or multivariate point symbols on a thematic layer on top of a dream-land map. Additionally, the set-up of Web platform for mapping dreams is discussed and a functional prototype is implemented, featuring tools for data acquisition, for analyzing, graphical tools related to map creation and editing (e.g. map collage), and visualizations for different dream topics, such as picture frames for emotions or a graph-network for social interactions.
+
+Finally, it is argued that the developed data models can be also adopted for real-life settings and events, therefore contributing to a better awareness of space in general, and acknowledging personal experiences as valuable for mapping real-life places. In a future continuation of this re-search, the application of such a dynamical model of the setting to real-life places could for ex-ample bring new insights for touristic places, or for spatial and settlement development in an urban environment.
+
+**Insights**
+1. Volunteered Geographical Information (VGI)
+2. dream psychology, geography and narratology
+3. empirical surveys
