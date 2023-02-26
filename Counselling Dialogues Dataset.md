@@ -1,0 +1,6 @@
+1. Data collected from app [Talklife](https://www.talklife.com/)
+>github link: [Empathy in Text-based Mental Health Support](https://github.com/behavioral-data/Empathy-Mental-Health)
+2. Data collected from organization [Crisis Text Line](https://www.crisistextline.org/data-philosophy/)
+> related research link: [Counseling Conversation Analysis](http://snap.stanford.edu/counseling/#access)
+3. Data collected from motivational interviewing (expert-annotated therapy conversations)
+> github link: [AnnoMI: A Dataset of Expert-Annotated Counselling Dialogues](https://github.com/uccollab/annomi)

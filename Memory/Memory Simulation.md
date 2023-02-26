@@ -1,0 +1,6 @@
+## Memory Simulation
+
+### [Memory and mental time travel in humans and social robots](https://doi.org/10.1098/rstb.2018.0025)
+
+**Abstract**
+From neuroscience, brain imaging and the psychology of memory, we are beginning to assemble an integrated theory of the brain subsystems and pathways that allow the compression, storage and reconstruction of memories for past events and their use in contextualizing the present and reasoning about the future—mental time travel (MTT). Using computational models, embedded in humanoid robots, we are seeking to test the sufficiency of this theoretical account and to evaluate the usefulness of brain-inspired memory systems for social robots. In this contribution, we describe the use of machine learning techniques—Gaussian process latent variable models—to build a multimodal memory system for the iCub humanoid robot and summarize results of the deployment of this system for human–robot interaction. We also outline the further steps required to create a more complete robotic implementation of human-like autobiographical memory and MTT. We propose that generative memory models, such as those that form the core of our robot memory system, can provide a solution to the symbol grounding problem in embodied artificial intelligence.
