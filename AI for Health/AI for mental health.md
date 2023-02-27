@@ -37,3 +37,11 @@ experience and conclude the paper with further research opportunities.
 **Insights**
 1. Chatbot-Generated Emotional Support (CGES)
 2. grief therapy
+
+### Can a Recommender System Support Treatment Personalisation in Digital Mental Health Therapy?
+
+doi: https://doi.org/10.1145/3491101.3519840
+
+**Abstract**
+Recommender systems have the potential to improve the user experience of mental health apps. Personalised recommendations can help users to identify therapy tasks that they find most enjoyable or helpful, thus boosting their engagement with the service and optimising the extent to which it helps them to feel better. Using a dataset containing 23,476 ratings collected from 973 players of a mental health therapy game, this work demonstrates how collaborative filtering algorithms can predict how much a user will benefit from a new therapy task with greater accuracy than a simpler baseline algorithm that predicts the average rating for a task, adjusted for the biases of the specific user and specific task. Collaborative filtering algorithms (matrix factorisation and k-nearest neighbour) outperform this baseline with a 6.5-8.3% improvement in mean absolute error (MAE) and context-aware collaborative filtering algorithms (factorisation machines) outperform with a 7.8-8.8\% improvement in MAE. These results suggest that recommender systems could be a useful tool for tailoring recommendations of new therapy tasks to a user based on a combination of their past preferences, the ratings of similar users, and their current context. This scalable approach to personalisation -- which does not require a human therapist to always be in-the-loop -- could play an important role in improving engagement and outcomes in digital mental health therapies.
+

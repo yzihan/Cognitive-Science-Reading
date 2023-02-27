@@ -62,6 +62,13 @@ doi: 10.3138/cart.50.4.3137
 
 ### The landscape of Our Dream - Foundations of Dream Geography
 
+### Fictional volunteered geographic information in Dream Cartography
+
+doi: https://doi.org/10.1080/23729333.2017.1301627
+
+**Abstract**
+In the field of fictional and literary geography, the spatial information is conveyed through the power of words by one person: the author of the novel or, in the case of Dream Cartography, by the dreamer. Every story takes place somewhere. However, the acquisition of geographic information differs conceptually from the geography of the real, physical world. This represents a novel opportunity for engaging in the production of volunteered geoinformation. With the right tools available, the collaborative spatialization of dreams gives birth to a new category of Volunteered Geographical Information (VGI), namely a fictional VGI. We argue that not only the dreamer, but also a third party may contribute to fictional geography by making a visual interpretation of the original content published by the dreamer. The social aspect of volunteering is discussed in both VGI and F-VGI. Additional possible sources of information, which may be used for retrieving geoinformation from dreams, are also mentioned. Our judgments are supported by data from an experimental study on dream locations. The participants rated their awareness of the dream setting, stated which elements are helping them to recognize places in their dreams and estimated the frequency of their dreams happening in personally relevant places.
+
 ### Dream Cartography. Mapping Dream Space and Content for an Exploratory Analysis of Dreams
 
 doi: https://doi.org/10.3929/ethz-b-000381774
@@ -78,3 +85,6 @@ Finally, it is argued that the developed data models can be also adopted for rea
 1. Volunteered Geographical Information (VGI)
 2. dream psychology, geography and narratology
 3. empirical surveys
+
+**Questions**
+1. The dream space is fundamentally different from the real space, especially because it is not possible to consciously visit the place of the dream again. => need survey

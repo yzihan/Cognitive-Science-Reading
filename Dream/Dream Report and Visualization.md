@@ -152,3 +152,7 @@ doi: https://doi.org/10.1371/journal.pone.0130129
 **Insights**
 
 > artistic visualization with EEG to share dreams
+
+Need to read:
+1. Book: Finding Meaning In Dreams: A Quantitative Approach
+https://dreams.ucsc.edu/Library/fmid.html

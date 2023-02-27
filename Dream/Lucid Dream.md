@@ -79,3 +79,6 @@ The two main approaches of lucid dreaming training we focus on are practicing fo
 2. Lucidity Institute
 3. Dr. Steve DiPaola’s lab
 4. Dream Journal Ultimate is the world’s largest dream database
+5. MILD vs WILD: 
+    1. MILD: mnemonic induction of lucid dreams engage prospective memory, or future memory remembering tasks and things of importance that you intend to do at a later time remembering to recognize that you're dreaming while you are dreaming
+    2. WILD: WILD is a meditative technique, which requires you to learn meditation and consciously tune yourself into altered states of awareness. It is unlikely to work straight away - in fact I'd first recommend you just explore that borderland sleep state and your hypnagogia first before expecting any sort of WILD experience. With practice, you'll get further/deeper each time, until one day (or night) you'll start dreaming while meditating with no lapse in consciousness. 
