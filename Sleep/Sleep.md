@@ -76,7 +76,31 @@ Conclusion:
 
 > In a population-based sample of middle-aged adults, subjective reports of habitual sleep are moderately correlated with actigraph-measured sleep, but are biased by systematic over-reporting. The true associations between sleep duration and health may differ from previously reported associations between self-reported sleep and health.
 
+### Topographical EEG Mapping in a Case of Recurrent Sleep Terrors
+https://link.springer.com/article/10.1023/B:DREM.0000005897.62698.1b#:~:text=EEG%20features%20distinguishing%20nightmare%20from,power%20and%20right%20temporal%20asymmetries
 
+Abstract:
+
+> Sleep terrors are characterized by marked CNS arousal and typically occur during stage 3-4 sleep within the first NREM cycle. Studies of the EEG during sleep terrors suggest that delta power and synchrony in the EEG may be important physiological markers of sleep terror presence and intensity. An EEG mapping study was undertaken with a single participant who experienced three sleep terror episodes in the laboratory. A one-minute section of EEG was sampled immediately prior to the onset of each of the three sleep terrors. Similar EEG sections were taken from 10 healthy sex- and age-matched controls. The sleep tenors and control (normative) data were then compared topographically with z-scores (z-mapping). The z-maps indicated that all three sleep terrors contained more total and delta power in central and frontal areas than the control EEG sections. Moreover, relative delta power in these areas for the three sleep terrors was proportional to the subjective intensity of the episode. Although this pre-arousal EEG pattern may be related to ongoing slow-wave sleep mentation that may sometimes trigger sleep terror episodes, its functional significance remains an open question. The results demonstrate the utility of EEG mapping for the quantification of brain activation during sleep terror attacks and suggest that discrete activity profiles are identifiable for different types of dreaming-related arousal.
+
+### REM Sleep Theta Changes in Frequent Nightmare Recallers
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5806577/
+
+Study Objectives:
+
+> To replicate and expand upon past research by evaluating sleep and wake electroencephalographic spectral activity in samples of frequent nightmare (NM) recallers and healthy controls.
+
+Methods:
+
+> Computation of spectral activity for sleep (non-REM and REM) and wake electroencephalogram recordings from 18 frequent NM recallers and 15 control participants.
+
+Results:
+
+> There was higher “slow-theta” (2–5 Hz) for NM recallers than for controls during wake, non-REM sleep and REM sleep. Differences were clearest for frontal and central derivations and for REM sleep cycles 2-4. There was also higher beta activity during NREM sleep for NM recallers. Findings partially replicate past research by demonstrating higher relative “slow-theta” (3-4Hz) for NM recallers than for controls.
+
+Conclusions:
+
+> Findings are consistent with a neurocognitive model of nightmares that stipulates cross-state anomalies in emotion processing in NM-prone individuals.
 
 ### TAUFIK VALIANTE IS RESEARCHING THE LINK BETWEEN MUSIC AND EPILEPSY, WITH AMAZING RESULTS
 
